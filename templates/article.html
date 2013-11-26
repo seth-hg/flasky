@@ -18,4 +18,7 @@
     {% if DISQUS_SITENAME is defined %}
         {% include "disqus.html" %}
     {% endif %}
+    {% if UYANID %}
+        {% include "uyan.html" %}
+    {% endif %}
 {% endblock %}
