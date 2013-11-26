@@ -1,6 +1,14 @@
 flasky
 ======
 
+Added the following line in your pelican.conf.py if you want to use uyan, a Chinese equivalent of disqus.::
+
+    UYANID = 'your_uyan_id'
+
+by seth
+
+------------ 
+
 Pelican theme I created for fjavieralba.com
 
 In order to correctly use this theme you will need this variables in your pelican conf.py::
