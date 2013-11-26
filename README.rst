@@ -1,7 +1,7 @@
 flasky
 ======
 
-Added the following line in your pelican.conf.py if you want to use uyan, a Chinese equivalent of disqus.::
+Add the following line in your pelican.conf.py if you want to use uyan, a Chinese equivalent of disqus.
 
     UYANID = 'your_uyan_id'
 
